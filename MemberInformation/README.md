@@ -1,8 +1,8 @@
-Name: <br>
-Major:
+## Name: <br> ##
+Major: <br>
 
-Name of Project:
-Description:
-How long did it take?:
+Name of Project: <br>
+Description: <br>
+How long did it take?: <br>
 
-Any other comments:
+Any other comments: <br>
