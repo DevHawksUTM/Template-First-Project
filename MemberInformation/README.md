@@ -1,4 +1,4 @@
-Name:
+Name: <br>
 Major:
 
 Name of Project:
